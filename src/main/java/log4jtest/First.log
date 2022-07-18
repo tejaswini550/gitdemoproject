@@ -1,0 +1,24 @@
+WARN main log4jtest.MainClass - Warn Level Message
+ERROR main log4jtest.MainClass - Error Level Message
+FATAL main log4jtest.MainClass - Fatal level Message
+WARN main log4jtest.MainClass - Warn Level Message
+ERROR main log4jtest.MainClass - Error Level Message
+FATAL main log4jtest.MainClass - Fatal level Message
+WARN main log4jtest.MainClass 17 Jul 2022 11:51:03,263 - Warn Level Message
+ERROR main log4jtest.MainClass 17 Jul 2022 11:51:03,267 - Error Level Message
+FATAL main log4jtest.MainClass 17 Jul 2022 11:51:03,267 - Fatal level Message
+WARN main log4jtest.MainClass 17 Jul 2022 11:52:02,122 - Warn Level Message
+ERROR main log4jtest.MainClass 17 Jul 2022 11:52:02,128 - Error Level Message
+FATAL main log4jtest.MainClass 17 Jul 2022 11:52:02,128 - Fatal level Message
+WARN main log4jtest.MainClass 17 Jul 2022 11:55:09,969 - Warn Level Message
+ERROR main log4jtest.MainClass 17 Jul 2022 11:55:09,973 - Error Level Message
+FATAL main log4jtest.MainClass 17 Jul 2022 11:55:09,974 - Fatal level Message
+WARN main log4jtest.MainClass 17 Jul 2022 11:57:16,510 - Warn Level Message
+ERROR main log4jtest.MainClass 17 Jul 2022 11:57:16,516 - Error Level Message
+FATAL main log4jtest.MainClass 17 Jul 2022 11:57:16,517 - Fatal level Message
+WARN main log4jtest.MainClass 17 Jul 2022 21:19:37,153 - Warn Level Message
+ERROR main log4jtest.MainClass 17 Jul 2022 21:19:37,168 - Error Level Message
+FATAL main log4jtest.MainClass 17 Jul 2022 21:19:37,168 - Fatal level Message
+WARN main log4jtest.MainClass 17 Jul 2022 21:20:13,359 - Warn Level Message
+ERROR main log4jtest.MainClass 17 Jul 2022 21:20:13,365 - Error Level Message
+FATAL main log4jtest.MainClass 17 Jul 2022 21:20:13,366 - Fatal level Message
